@@ -7,6 +7,7 @@ Thank you for considering contributing to this project! Here are some guidelines
 2. **Make a change**: Edit the files in your forked repository. This could be adding a new guideline, fixing an example, or improving documentation.
 3. **Test your changes**: Ensure that any code changes are thoroughly tested and adhere to the project's coding standards. It's crucial to verify that your changes do not introduce new issues.
 4. **Submit a Pull Request**: Submit your changes for review. Include a clear description of your changes and the reason behind them.
+5. **Participate in Code Review**: Be prepared to discuss your changes with project maintainers and consider any feedback they provide.
 
 ## Guidelines
 - Follow the existing code style in the project.
