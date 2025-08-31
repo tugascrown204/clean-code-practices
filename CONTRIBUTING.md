@@ -19,3 +19,6 @@ Thank you for considering contributing to this project! Here are some guidelines
 If you find a bug or wish to suggest an improvement, please open an issue in the repository and provide as much detail as possible to help us understand the problem.
 
 Thank you for your contributions!
+
+### Additional Note
+- Always ensure your tests cover edge cases to improve the overall reliability of your contributions.
