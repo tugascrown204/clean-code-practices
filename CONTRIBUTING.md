@@ -23,3 +23,4 @@ Thank you for your contributions!
 ### Additional Note
 - Always ensure your tests cover edge cases to improve the overall reliability of your contributions.
 - Consider adding unit tests when you introduce new features or fix bugs.
+- Testing is not just a formality; it is essential for maintaining code quality.
