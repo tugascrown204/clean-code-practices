@@ -16,6 +16,6 @@ Thank you for considering contributing to this project! Here are some guidelines
 - Be respectful and constructive in any discussions.
 
 ## Reporting Issues
-If you find a bug or wish to suggest an improvement, please open an issue in the repository. Provide as much detail as possible to help us understand the problem.
+If you find a bug or wish to suggest an improvement, please open an issue in the repository and provide as much detail as possible to help us understand the problem.
 
 Thank you for your contributions!
